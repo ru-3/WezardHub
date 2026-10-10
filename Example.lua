@@ -1,5 +1,5 @@
-local UiUrl = "https://raw.githubusercontent.com/YourName/WezardHub/main/Ui.lua"
-local ConfigUrl = "https://raw.githubusercontent.com/YourName/WezardHub/main/config.lua"
+local UiUrl = "https://raw.githubusercontent.com/ru-3/WezardHub/refs/heads/main/Ui.lua"
+local ConfigUrl = "https://raw.githubusercontent.com/ru-3/WezardHub/refs/heads/main/config.lua"
 
 local Ui = loadstring(game:HttpGet(UiUrl))()
 local Config = loadstring(game:HttpGet(ConfigUrl))()
